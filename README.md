@@ -126,6 +126,11 @@ persona-adaptive-customer-support-agent/
 │   ├── password_reset.txt
 │   ├── refund_process.txt
 │
+├── screenshots/
+│   ├── technical.png
+│   ├── frustrated.png
+│   ├── executive.png
+│
 ├── ui.py
 ├── requirements.txt
 ├── README.md
