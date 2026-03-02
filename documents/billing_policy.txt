@@ -1,0 +1,3 @@
+Invoices are generated on the 1st of each month.
+Refund requests must be submitted within 14 days.
+Enterprise plans include SLA guarantees.
