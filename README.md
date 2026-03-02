@@ -214,18 +214,38 @@ streamlit run ui.py
 
 ### 🔹 Technical Expert
 ```
-My API returns 403 error and token refresh fails.
+My API returns 403 after token refresh.
 ```
 
 ### 🔹 Frustrated User
 ```
-This is unacceptable! I want my refund immediately!
+This app is ridiculous. Nothing works!
 ```
 
 ### 🔹 Business Executive
 ```
-Our SLA breach is affecting revenue. What is the resolution timeline?
+What is the SLA impact if downtime exceeds 2 hours?
 ```
+
+---
+
+## 📸 Sample Outputs
+
+### 🔹 Technical Expert Response
+
+![Technical Expert Response](screenshots/technical.png)
+
+---
+
+### 🔹 Frustrated User Response
+
+![Frustrated User Response](screenshots/frustrated.png)
+
+---
+
+### 🔹 Business Executive Response
+
+![Business Executive Response](screenshots/executive.png)
 
 ---
 
